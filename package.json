@@ -1,16 +1,16 @@
 {
-"name": "autoslot168",
-"theme": "autoslot168",
-"version": "8.9.8",
-"description": "autoslot168 ทางเข้าหลักเว็บคาสิโนเว็บตรง คนเล่นเยอะ ให้เครดิตฟรี",
-"keywords": [
-"autoslot168",
-"autoslot168 เครดิตฟรี",
-"autoslot168 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/autoslot168",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "autoslot168",
+  "theme": "autoslot168",
+  "version": "8.10.0",
+  "description": "autoslot168 ทางเข้าหลักเว็บคาสิโนเว็บตรง คนเล่นเยอะ ให้เครดิตฟรี",
+  "keywords": [
+    "autoslot168",
+    "autoslot168 เครดิตฟรี",
+    "autoslot168 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/autoslot168",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
